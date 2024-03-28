@@ -9,3 +9,6 @@ This repository contains a collection of Google App Scripts that can be used to 
 
 ## Permissions
 Selling, distribution or any type of misuse without consent is forbidden. For more information, see the [PERMISSIONS](PERMISSIONS.md) file.
+
+## Author
+- [Edwin Marte Torres](https://github.com/em-torres) - Computer Science Engineer

@@ -10,4 +10,4 @@ Script created to integrate Google Forms with Google Calendar. The script is tri
 - Descripción: Get the description of the event.
 - Forzar: A checkbox item that gets the option to force the event creation even if the event is already booked.
 
-![img.png](../src/images/img.png)
+![img.png](../../../assets/images/img.png)
